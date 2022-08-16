@@ -4,11 +4,7 @@
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josecassela)
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josecassela&show_icons=true&theme=radical)
 
 
 
