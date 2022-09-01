@@ -2,7 +2,6 @@ https://josecassela.github.io/desenvolvedor-web-junio/
 
 https://josecassela.github.io/pizzaria-ramos/
 
-https://josecassela.github.io/ponto-da-pizza/
 
 ### olá sou josé ramos cassela
 
