@@ -5,7 +5,6 @@ https://josecassela.github.io/meu-site/
 
 https://josecassela.github.io/pizzaria/
 
-https://josecassela.github.io/desenvolvedor/
 
 
 https://josecassela.github.io/site-do-japa/
