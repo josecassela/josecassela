@@ -2,6 +2,7 @@ https://josecassela.github.io/official/index.html
 
 https://josecassela.github.io/meu-site/
 
+ https://josecassela.github.io/Sorveteria/
 
 https://josecassela.github.io/pizzaria/
 
