@@ -2,7 +2,7 @@ https://josecassela.github.io/official/index.html
 
 https://josecassela.github.io/meu-site/
 
-https://josecassela.github.io/sensei-japones-food/
+
 
  https://josecassela.github.io/cliente/
  
