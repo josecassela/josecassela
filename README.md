@@ -9,6 +9,8 @@ https://josecassela.github.io/Calcell/
  https://josecassela.github.io/Edir-live-integrada/
  
  https://josecassela.github.io/Pizzaria-Brasileira/index.html
+ 
+ https://josecassela.github.io/Barbeiro/
 
 
 
