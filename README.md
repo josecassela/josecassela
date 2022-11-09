@@ -13,6 +13,8 @@ https://josecassela.github.io/Calcell/
  https://josecassela.github.io/Barbeiro/
  
  https://josecassela.github.io/loja-de-tenis-esportivos/
+ 
+ https://josecassela.github.io/SERTECH/
 
 
 
